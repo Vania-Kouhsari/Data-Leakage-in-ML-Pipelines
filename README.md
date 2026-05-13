@@ -40,6 +40,3 @@ Credit Card Fraud Detection Dataset:
 [Kaggle Dataset Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?utm_source=chatgpt.com)
 
 Due to file size limitations and dataset distribution considerations, the dataset is not included directly in this repository.
-.
-├── data_leakage_experiments.ipynb
-├── README.md
